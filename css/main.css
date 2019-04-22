@@ -145,7 +145,7 @@ section { display: flex; }
 }
 .full-banner:before {
   content: "";
-  positon: absolute;
+  position: absolute;
   border: 1px solid #ffffff;
   top: 30px;
   bottom: 30px;
