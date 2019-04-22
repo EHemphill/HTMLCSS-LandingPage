@@ -136,7 +136,7 @@ section { display: flex; }
 .category-text h3 {
   font-size: 30px;
   font-weight: 700;
-  line-height: 1;
+  line-height; 1;
 }
 .full-banner {
   padding: 0 15px;
